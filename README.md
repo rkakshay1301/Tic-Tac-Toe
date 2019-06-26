@@ -1,2 +1,5 @@
 # Tic-Tac-Toe
-Used basic python concepts.
+
+Created by using just the basic python concepts.
+
+
